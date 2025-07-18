@@ -111,7 +111,7 @@ This simulation project was developed as part of our **final year academic curri
 
 ---
 
-## 📝 Notes
+## 📝 Note
 
 - This is a simulation project, not a production environment.
 - All content is educational, with no real passenger or railway data involved.

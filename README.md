@@ -20,7 +20,12 @@ The goal of this simulation was to build a real-world use case for applying ITSM
 
 ## 🚆 Train Groups Simulated
 
-South Central Railways (Parent Group) ├── Ratnachal Express ├── Godavari Express ├── Seshadri Express ├── Amaravathi Express └── Sarkar Express
+South Central Railways (Parent Group) 
+  ├── Ratnachal Express 
+  ├── Godavari Express 
+  ├── Seshadri Express 
+  ├── Amaravathi Express 
+  └── Sarkar Express
 
 
 
@@ -80,7 +85,14 @@ These articles were linked to incident records to provide real-time guidance to 
 
 ## 📁 Repository Structure
 
-/railway-incident-management-servicenow ├── Documentation/ │   └── south_central_railways(problems).pdf ├── KnowledgeArticles/ │   └── Sample_KBs_Screenshots) ├── Reports/ │   └── Incident charts and summaries ├── README.md
+/railway-incident-management-servicenow
+├── Documentation/
+│   └── south_central_railways(problems).pdf     ← Your core project document
+├── KnowledgeArticles/
+│   └── Sample KBs (HTML summaries or screenshots) ← Articles like health or food tips
+├── Reports/
+│   └── Incident charts and summaries             ← Mock visualizations or analytics
+├── README.md                                     ← Project overview & guide
 
 
 
